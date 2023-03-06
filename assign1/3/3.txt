@@ -1,0 +1,19 @@
+a) The plot of eigenvalues in the complex plane shows a pattern known as "spectral decomposition" of matrix M.
+The shape of the plot is circular with its center at (-D,0).
+
+b) The distribution of the eigenvalues in the complex plane is influenced by the value of D.
+When D=0 the plot has a dense dense distribution of eigenvalues in a circular shape centered around the origin.
+In the complex plane, eigenvalues that are closer to the origin (0, 0) are produced by greater values of D, whilst those that are further from the origin are produced by lower values of D. 
+This is due to the fact that the diagonal members of the matrix M are set to -D, which has an impact on the matrix's eigenvalues.
+A bigger value of D will provide a more negative diagonal, which will produce eigenvalues on the complex plane that are nearer to the origin. 
+In contrast, a lower value of D will lead to a less negative diagonal, which will produce eigenvalues in the complex that are further away from the origin.
+There is no change in the imaginary component and there is a change in the real component of the eigenvalue.
+
+c) The complex plane eigenvalue plot in this scenario would demonstrate that all eigenvalues are real and lie on the real axis, excluding any imaginary components. 
+The straight line is centered at -D.
+The distribution of the elements in matrix M and the value of D will determine the precise distribution of the eigenvalues along the real axis.
+
+bonus: The matrix M is no longer a random matrix and is probably not symmetric if the components are correlated such that Mij and Mji have the opposite sign.
+The circle is still there, but a couple of the points have an imaginary component that is relatively extremely high (around 150).
+Since the centre shifts exactly as described in 3B here as well, the change on D in this plot remains the same.
+Depending on the precise correlation pattern in the matrix, the eigenvalues might be real, complex, or even zero. 
